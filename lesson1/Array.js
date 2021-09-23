@@ -13,7 +13,7 @@ console.log(languages)
  /* xoa */ languages.splice(1,0)
  console.log(languages);
  //chen 
- languages.splice(2,0,'Quynh trang','yeu nhau rat hanh phuc')
+ languages.splice(2,0,'Quynh trang');
  console.log(languages);
  //concat de noi array
  var languages2=['Hoai Nam','Quynh Trang'];
