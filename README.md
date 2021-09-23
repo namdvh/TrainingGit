@@ -1,0 +1,2 @@
+# TrainingGit
+Practice using git 
